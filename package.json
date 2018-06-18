@@ -1,0 +1,15 @@
+{
+  "name": "yapi-plugin-wsso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/18boys/yapi-plugin-wsso"
+  },
+  "author": "shuai.li12 <1003284096@qq.com>",
+  "license": "ISC"
+}
